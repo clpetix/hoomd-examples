@@ -17,6 +17,7 @@ included in HOOMD-blue's [documentation].
 * [Organizing and Executing Simulations](05-Organizing-and-Executing-Simulations/00-index.ipynb)
 * [Modelling Rigid Bodies](06-Modelling-Rigid-Bodies/00-index.ipynb)
 * [Modelling Patchy Particles](07-Modelling-Patchy-Particles/00-index.ipynb)
+* [Multiparticle Collision Dynamics](09-Multiparticle-Collision-Dynamics/00-index.ipynb)
 
 ## Executing the tutorials
 
